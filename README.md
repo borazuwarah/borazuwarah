@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+## hola que tal?
+### Soy Pablo Ramírez y estás en mi perfil publico de GitHub!! Gracias por pasarte, en unas lineas te cuento un poco sobre mí!
+
 
 <!--
 **borazuwarah/borazuwarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

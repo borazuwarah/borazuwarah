@@ -35,5 +35,13 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 -- in spanish
 https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
-subidoooooooo
+
+
+ssh command lines:
+
+path: /.ssh
+ssh-keygen -t ed25519 -c "tu e-mail"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+add id_rsa.pub to github ssh keys
 -->

@@ -9,7 +9,8 @@
 La programación nunca fue mi fuerte pero... por qué no darle otra oportunidad?
 Intentaré ir subiendo mis cosillas personales además de mis aportaciones a otros proyectos.
 
-Actualmente me encuentro profesionalmente desarrollando en C# y entre mis inquietudes está conocer otros lenguajes, voy a iniciar un curso en python y he creado un repo para ir subiendo mis avances, ademas los intentaré publicar ne mi web personal a modo de portfolio.
+Actualmente me encuentro profesionalmente desarrollando en C# aunque en otro puestos he tocado bastante PHP, MySQL entre otros.
+Entre mis inquietudes está conocer otros lenguajes, voy a iniciar un curso en python y he creado un repo para ir subiendo mis avances, ademas los intentaré publicar ne mi web personal a modo de portfolio.
 Repo: [aquí](https://github.com/borazuwarah/Learning-python).
 
 
@@ -31,5 +32,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+-- in spanish
+https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 -->

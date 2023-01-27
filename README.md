@@ -10,7 +10,7 @@ La programación nunca fue mi fuerte pero... por qué no darle otra oportunidad?
 Intentaré ir subiendo mis cosillas personales además de mis aportaciones a otros proyectos.
 
 Actualmente me encuentro profesionalmente desarrollando en C# y entre mis inquietudes está conocer otros lenguajes, voy a iniciar un curso en python y he creado un repo para ir subiendo mis avances, ademas los intentaré publicar ne mi web personal a modo de portfolio.
-[repo:] (https://github.com/borazuwarah/Learning-python)
+[repo:](https://github.com/borazuwarah/Learning-python)
 
 
 Tengo una web desde la que me gustaría informaros de todos mis pasos con la tecnología

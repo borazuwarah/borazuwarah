@@ -3,6 +3,9 @@
 ### Soy Pablo Ramírez y estás en mi perfil publico de GitHub!! Gracias por pasarte, en unas lineas te cuento un poco sobre mí!
 ---------------------------------------------------
 ![logo](./Images/PR.PNG)
+
+
+
 La programación nunca fue mi fuerte pero... por quué no darle otra oportunidad?
 
 Intentaré ir subiendo mis cosillas personales además de mis aportaciones a otros proyectos

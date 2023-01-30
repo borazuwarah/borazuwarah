@@ -13,6 +13,12 @@ Actualmente me encuentro profesionalmente desarrollando en C# aunque en otro pue
 Entre mis inquietudes está conocer otros lenguajes, voy a iniciar un curso en python y he creado un repo para ir subiendo mis avances, ademas los intentaré publicar ne mi web personal a modo de portfolio.
 Repo: [aquí](https://github.com/borazuwarah/Learning-python).
 
+Lenguajes de programacion que he tocado:
+c#
+SQL
+PHP
+bash
+
 
 Tengo una web desde la que me gustaría informaros de todos mis pasos con la tecnología
 mi web: [Pablo Ramírez](https://pabloramirez.es/).

@@ -1,7 +1,7 @@
 # Hola a todos!! 👋
-## que tal?, aquí un servidor!
-### Soy Pablo Ramírez y estás en mi perfil publico de GitHub!! Gracias por pasarte, en unas lineas te cuento un poco sobre mí!
----------------------------------------------------
+
+## Que tal?
+### Soy Pablo Ramírez y estás en mi perfil publico en GitHub!! Gracias por pasarte, en unas lineas te cuento un poco sobre mí!
 ![logo PR](./Images/PR.PNG)
 
 
@@ -13,9 +13,18 @@ Actualmente me encuentro profesionalmente desarrollando en C# aunque en otro pue
 Entre mis inquietudes está conocer otros lenguajes, voy a iniciar un curso en python y he creado un repo para ir subiendo mis avances, ademas los intentaré publicar ne mi web personal a modo de portfolio.
 Repo: [aquí](https://github.com/borazuwarah/Learning-python).
 
+Lenguajes de programacion que he tocado:
++ c#
++ SQL
++ PHP
++ Bash
+
 
 Tengo una web desde la que me gustaría informaros de todos mis pasos con la tecnología
 mi web: [Pablo Ramírez](https://pabloramirez.es/).
+
+
+
 
 <!--
 **borazuwarah/borazuwarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

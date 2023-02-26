@@ -30,6 +30,20 @@ Herramientas que utilizo o he utilizado:
 + VSC
 
 
+Algunos recursos online que me parecen muy interesantes:
+Web develop:
+https://recursoscosmicos.com/
+https://manz.dev/
+
+
+Ciberseguridad:
+https://www.securiters.com/
+
+
+Canales de youtube:
+
+
+
 Tengo una web desde la que me gustaría informaros de todos mis pasos con la tecnología
 mi web: [Pablo Ramírez](https://pabloramirez.es/) aqunque tengo que reconocer que me cuesta actualizarla por pereza.
 

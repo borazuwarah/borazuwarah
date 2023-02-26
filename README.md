@@ -19,9 +19,12 @@ Lenguajes de programacion que he tocado:
 + PHP
 + Bash
 
+Aprendiendo:
++ Python
+
 
 Tengo una web desde la que me gustaría informaros de todos mis pasos con la tecnología
-mi web: [Pablo Ramírez](https://pabloramirez.es/).
+mi web: [Pablo Ramírez](https://pabloramirez.es/) aqunque tengo que reconocer que me cuesta actualizarla por pereza.
 
 
 

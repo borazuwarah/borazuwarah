@@ -22,9 +22,17 @@ Lenguajes de programacion que he tocado:
 Aprendiendo:
 + Python
 
+Ciberseguridad, otra de mis pasiones por la informática pasa por la seguridad!
+
+Herramientas que utilizo o he utilizado:
++ Git
++ VS
++ VSC
+
 
 Tengo una web desde la que me gustaría informaros de todos mis pasos con la tecnología
 mi web: [Pablo Ramírez](https://pabloramirez.es/) aqunque tengo que reconocer que me cuesta actualizarla por pereza.
+
 
 
 

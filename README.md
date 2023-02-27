@@ -32,19 +32,19 @@ Herramientas que utilizo o he utilizado:
 
 Algunos recursos online que me parecen muy interesantes:
 Web develop:
-https://recursoscosmicos.com/
-https://manz.dev/
++ https://recursoscosmicos.com/
++ https://manz.dev/
 
 
 Ciberseguridad:
-https://www.securiters.com/
++ https://www.securiters.com/
 
 
 Canales de youtube:
 
 ciberseguridad:
-https://www.youtube.com/@Securiters
-https://www.youtube.com/@s4vitar
++ https://www.youtube.com/@Securiters
++ https://www.youtube.com/@s4vitar
 
 
 

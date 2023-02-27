@@ -45,6 +45,8 @@ Canales de youtube:
 ciberseguridad:
 + https://www.youtube.com/@Securiters
 + https://www.youtube.com/@s4vitar
+Desarrollo
++  https://www.youtube.com/@hdeleonnet
 
 
 

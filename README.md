@@ -42,6 +42,11 @@ https://www.securiters.com/
 
 Canales de youtube:
 
+ciberseguridad:
+https://www.youtube.com/@Securiters
+https://www.youtube.com/@s4vitar
+
+
 
 
 Tengo una web desde la que me gustaría informaros de todos mis pasos con la tecnología

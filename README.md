@@ -51,8 +51,9 @@ Desarrollo
 
 
 
-Cursos i
+Cursos interesantes
 + https://hack4u.io/
++ The 
 
 
 Tengo una web desde la que me gustaría informaros de todos mis pasos con la tecnología

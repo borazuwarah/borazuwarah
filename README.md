@@ -45,10 +45,14 @@ Canales de youtube:
 ciberseguridad:
 + https://www.youtube.com/@Securiters
 + https://www.youtube.com/@s4vitar
+
 Desarrollo
 +  https://www.youtube.com/@hdeleonnet
 
 
+
+Cursos i
++ https://hack4u.io/
 
 
 Tengo una web desde la que me gustaría informaros de todos mis pasos con la tecnología
@@ -75,6 +79,9 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 -- in spanish
 https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+
+FTP: woktron.com
 
 
 

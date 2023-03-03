@@ -53,7 +53,8 @@ Desarrollo
 
 Cursos interesantes
 + https://hack4u.io/
-+ The 
++ https://www.mastermind.ac/
++ https://thehackerway.es/
 
 
 Tengo una web desde la que me gustaría informaros de todos mis pasos con la tecnología

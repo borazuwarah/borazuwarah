@@ -47,7 +47,8 @@ ciberseguridad:
 + https://www.youtube.com/@s4vitar
 
 Desarrollo
-+  https://www.youtube.com/@hdeleonnet
++ https://www.youtube.com/@hdeleonnet
++ https://www.youtube.com/@mouredev
 
 
 

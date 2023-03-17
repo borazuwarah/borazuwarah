@@ -32,31 +32,31 @@ Herramientas que utilizo o he utilizado:
 
 Algunos recursos online que me parecen muy interesantes:
 Web develop:
-+ https://recursoscosmicos.com/
-+ https://manz.dev/
++ [ManzDev](https://manz.dev/)
++ [Recursos Cosmicos](https://recursoscosmicos.com/)
 
 
 Ciberseguridad:
-+ https://www.securiters.com/
++ [Securiters](https://www.securiters.com/)
 
 
 Canales de youtube:
 
 ciberseguridad:
-+ https://www.youtube.com/@Securiters
-+ https://www.youtube.com/@s4vitar
++ [Securiters](https://www.youtube.com/@Securiters)
++ [S4vitaar](https://www.youtube.com/@s4vitar)
 
 Desarrollo
-+ https://www.youtube.com/@hdeleonnet
-+ https://www.youtube.com/@mouredev
-+ https://www.youtube.com/@mouredevtv
++ [Hector de Leon](https://www.youtube.com/@hdeleonnet)
++ [Mouredev](https://www.youtube.com/@mouredev)
++ [Mouredev.tv](https://www.youtube.com/@mouredevtv)
 
 
 
 Cursos interesantes
-+ https://hack4u.io/
-+ https://www.mastermind.ac/
-+ https://thehackerway.es/
++ [Hack4u](https://hack4u.io/)
++ [MasterMind](https://www.mastermind.ac/)
++ [ThehackerWay](https://thehackerway.es/)
 
 
 Tengo una web desde la que me gustaría informaros de todos mis pasos con la tecnología

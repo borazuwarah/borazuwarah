@@ -95,8 +95,8 @@ https://www.woktron.com/
 ssh command lines:
 
 path: /.ssh
-ssh-keygen -t ed25519 -c "tu e-mail"
-eval "$(ssh-agent -s)"
+ssh-keygen -t ed25519 
+eval $(ssh-agent)
 ssh-add ~/.ssh/id_rsa
 add id_rsa.pub to github ssh keys
 -->

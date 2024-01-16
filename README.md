@@ -99,4 +99,12 @@ ssh-keygen -t ed25519
 eval $(ssh-agent)
 ssh-add ~/.ssh/id_rsa
 add id_rsa.pub to github ssh keys
+
+
+Hacking ruta de aprendizaje:
+https://xmind.ai/share/vy9Y2aAK?xid=BGSZMQhU
 -->
+
+
+
+

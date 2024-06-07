@@ -22,13 +22,15 @@ Lenguajes de programacion que he tocado o toco:
 Aprendiendo:
 + Python
 
-Ciberseguridad, otra de mis pasiones por la informática pasa por la seguridad!
 
 Herramientas que utilizo o he utilizado:
 + Git
-+ VS
-+ VSC
++ Visual studio (VS)
++ Visual studio code (VSC)
 
+Ciberseguridad, otra de mis pasiones por la informática pasa por la seguridad!
+
+Actualmente me encuentro en proceso de formacion en ciberseguridad y preparando la certificacion eJPTv2
 <!--
 Algunos recursos online que me parecen muy interesantes:
 Web develop:
